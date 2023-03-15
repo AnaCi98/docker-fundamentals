@@ -1,8 +1,8 @@
-Introduction to Docker
+## Introduction to Docker
 
 In this repository you can see some basic concepts of docker and the most used commands
 
-I hope it helps
+I hope it helps!
 
 Basic commands:
 
